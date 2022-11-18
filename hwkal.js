@@ -22,20 +22,20 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = '@hikal857' // ubah aja
-global.email = 'kenzmodz11@gmail.com'
+global.ig = 'Tidak Ada' // ubah aja
+global.email = 'ZxyMaker's@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Kenz Modz' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'New Kenz Modz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Botz New Kenz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𝐙𝐗𝐘-7␈𝖒𝖆𝖐𝖊𝖗'𝖘' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '𝐙𝐗𝐘-7␈𝖒𝖆𝖐𝖊𝖗'𝖘' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '𝚉𝚇𝚈-7 𝙼𝙰𝙼𝙴𝚁'𝚂' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['62895417321636'] // ubah aja pake nomor lu
-global.premium = ['62895417321636'] // ubah aja pake nomor lu
-global.packname = 'Kenz Modz' // ubah aja
-global.ownerr = ['Kenz'] // ubaha aja
-global.author = 'New Botz Kenz' //ubah aja
+global.owner = ['6289635641339'] // ubah aja pake nomor lu
+global.premium = ['6289635641339'] // ubah aja pake nomor lu
+global.packname = '𝙱𝙾𝚃 𝚉𝚇𝚈-7' // ubah aja
+global.ownerr = ['𝚉𝚇𝚈-7'] // ubaha aja
+global.author = '𝙾𝙻𝙳 𝙱𝙾𝚃 𝚉𝚇𝚈-7' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
